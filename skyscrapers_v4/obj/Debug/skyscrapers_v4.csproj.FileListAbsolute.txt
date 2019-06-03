@@ -1,0 +1,22 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\bin\Debug\skyscrapers_v4.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\bin\Debug\skyscrapers_v4.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\bin\Debug\skyscrapers_v4.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Examples.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Methods.resources
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\bin\Debug\skyscrapers_v4.exe.config
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.exe
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.pdb
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.csprojResolveAssemblyReference.cache
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Form1.resources
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Methods.resources
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Properties.Resources.resources
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.Examples.resources
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\obj\Debug\skyscrapers_v4.csproj.GenerateResource.Cache
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\bin\Debug\skyscrapers_v4.exe
+C:\Users\Валентина\Desktop\skyscrapers_v4\skyscrapers_v4\bin\Debug\skyscrapers_v4.pdb
